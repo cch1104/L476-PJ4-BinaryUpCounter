@@ -18,9 +18,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include <stdint.h>
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include <stdint.h>
 #define led0 GPIO_PIN_0
 #define led1 GPIO_PIN_1
 #define led2 GPIO_PIN_2
