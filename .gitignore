@@ -1,8 +1,7 @@
 # STM32CubeIDE
 .mxproject
 .settings/
-.project
-.cproject
+
 
 # Build
 Debug/
